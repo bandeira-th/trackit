@@ -1,5 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import styled from "styled-components";
+import Habits from "./pages/HabitsPage/Habits";
 import Login from "./pages/LoginPage/Login";
 import SignUp from "./pages/SignUpPage/SignUp";
 import Today from "./pages/TodayPage/Today";
@@ -15,6 +16,7 @@ function App() {
               <Route path="/" element={<Login/>} />
               <Route path="/cadastro" element={<SignUp/>} />
               <Route path="/hoje" element={<Today />} />
+              <Route path="/habitos" element={<Habits/>} />
             </Routes>
           </BrowserRouter>
         </StyledApp>
