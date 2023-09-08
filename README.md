@@ -1,4 +1,7 @@
-# Track It is an app that helps you with adopting new habits and stay consistent with them.
+## Description
+
+Track It is an app that helps you with adopting new habits and stay consistent with them.
+
 ![Screenshot from 2023-09-07 14-25-22](https://github.com/bandeira-de-melo/trackit/assets/83191364/49d7c254-a3f0-4a48-8dc1-423595423f50)
 
 ### Features
