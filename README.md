@@ -1,4 +1,4 @@
-## Description
+## About
 
 Track It is an app that helps you with adopting new habits and stay consistent with them.
 
