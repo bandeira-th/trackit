@@ -13,6 +13,11 @@ TrackIt is an app that helps you with adopting new habits and stay consistent wi
 - Daily progress bar
 - Percentage of activities done daily
 
+### Techs:
+- React
+- Styled Components
+- Axios
+- Context API
 
 ### Install:
 
